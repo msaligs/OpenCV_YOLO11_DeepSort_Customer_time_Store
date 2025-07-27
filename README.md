@@ -10,8 +10,8 @@ To get started with this project, follow these steps:
 ### Prerequisites
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/customer-time-tracking.git
-    cd customer-time-tracking
+    git clone https://github.com/brijeshhere/OpenCV_YOLO11_DeepSort_Customer_time_Store.git
+    cd OpenCV_YOLO11_DeepSort_Customer_time_Store
     ```
 
 2. Install dependencies:
